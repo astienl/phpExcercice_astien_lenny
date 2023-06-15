@@ -4,5 +4,5 @@
  $job= "developpeur";
 
  
- echo "je m'applle $name, j'ai $age et je suis $job."; 
+ echo "je m'applle $name, j'ai $age  ans et je suis $job."; 
 ?>

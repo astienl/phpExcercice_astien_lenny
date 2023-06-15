@@ -12,4 +12,14 @@ while( $i < $str )
 ?>
 
  
- 
+<?php
+$str = "Hello Worl";
+
+$i = 0;
+
+
+while ( $i < strlen($str) ){
+  echo $str[$i]. " ";
+  $i++; 
+}
+?>
